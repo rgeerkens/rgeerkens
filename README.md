@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on security and Azure reference architectures
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ronnygeerkens/)
+
 <!--
 **rgeerkens/rgeerkens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
